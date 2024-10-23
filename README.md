@@ -23,7 +23,7 @@ Mejoras y Funcionalidades Extras
 1. Persistencia en archivo JSON: El proyecto guarda todas las transacciones en un archivo transactions.json.
 
 2. Validación de datos:
-  Validación de que el tipo de transacción sea "deposito" o "retiro".
+  Validación de que el tipo de transacción sea "deposito" o "retiro". 
   Validación de que el monto sea un número positivo mayor a 0.
   Validación de que existan fondos suficientes para realizar retiros.
 
